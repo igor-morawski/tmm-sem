@@ -1,0 +1,1 @@
+Please refer to  [CLIP-LIT original repo for this implementation](https://github.com/ZhexinLiang/CLIP-LIT/tree/main/CLIP)
