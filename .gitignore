@@ -169,3 +169,5 @@ B_enhancer/clip-vit-base-patch32/
 tmp.sh
 
 B_enhancer/clip_model/
+
+B_enhancer/out
