@@ -1,0 +1,1 @@
+NET_ENHANCED_KEY = 'enhanced'
